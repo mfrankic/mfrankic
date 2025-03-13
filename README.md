@@ -16,3 +16,7 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests or Profession
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrankic&layout=compact&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
