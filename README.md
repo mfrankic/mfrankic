@@ -1,4 +1,5 @@
-# Hi there, I'm Marin Frankić! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mfrankic14)  
+# Hi there, I'm Marin Frankić! 👋  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mfrankic14-blue)](https://www.linkedin.com/in/mfrankic14)  
 
 I'm a **Full Stack Developer** specializing in **PHP** and **JavaScript**. In my free time, I enjoy exploring other technologies.  
 
@@ -18,10 +19,5 @@ I'm a **Full Stack Developer** specializing in **PHP** and **JavaScript**. In my
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
-## GitHub Stats
-
-![mfrankic's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfrankic&show_icons=true&theme=radical)  
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrankic&layout=compact&theme=radical)  
+## 😂 Random Dev Joke  
+![Jokes Card](https://readme-jokes.vercel.app/api)  
