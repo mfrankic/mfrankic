@@ -18,9 +18,6 @@ I'm a **Full Stack Developer** specializing in **PHP** and **JavaScript**. In my
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mfrankic14)  
-
 ## GitHub Stats
 
 ![mfrankic's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfrankic&show_icons=true&theme=radical)  
