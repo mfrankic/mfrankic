@@ -7,7 +7,6 @@ I'm a **Full Stack Developer** specializing in **PHP** and **JavaScript**. In my
 
 ## 🚀 Projects
 
-- 🎬 [Movie Recommender](https://github.com/mfrankic/movie_recommender) – **Flutter** app for recommending movies.
 - ✏️ [SketchID](https://github.com/mfrankic/SketchID) – **Android** app written in **Java** for collecting drawing data to train AI models to identify users based on their drawing styles.
 
 ## 🛠️ Tech Stack
