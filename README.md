@@ -20,6 +20,7 @@ I'm a **Full Stack Developer** specializing in **PHP** and **JavaScript**. In my
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ## 😂 Random Dev Joke
