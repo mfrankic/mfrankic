@@ -7,6 +7,7 @@ I'm a **Full Stack Developer** specializing in **PHP** and **JavaScript**. In my
 
 ## 🚀 Projects
 
+- 🏙️ [Pocket City](https://github.com/mfrankic/pocket-city) – top-down city builder on a 64×64 grid, written in **Odin** with **Raylib**.
 - ✏️ [SketchID](https://github.com/mfrankic/SketchID) – **Android** app written in **Java** for collecting drawing data to train AI models to identify users based on their drawing styles.
 
 ## 🛠️ Tech Stack
@@ -21,6 +22,7 @@ I'm a **Full Stack Developer** specializing in **PHP** and **JavaScript**. In my
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Odin](https://img.shields.io/badge/-Odin-3882D2)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ## 😂 Random Dev Joke
